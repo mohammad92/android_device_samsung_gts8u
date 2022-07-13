@@ -360,6 +360,7 @@ hall_ic_notifier.ko
 flicker_test.ko
 ps5169.ko
 sm5440-charger.ko
+stm_ts_fts1b90a.ko
 sec-direct-charger.ko
 sec_pd.ko
 sec-battery.ko
